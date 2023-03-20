@@ -1,6 +1,7 @@
 # SPARK.Centre
 Spark Learning Centre Open Development
 {this is an open source template for other schools and learning spaces to fork and emulate}
+ open source refers to the concept of making the source code and design of the learning centre available for anyone to view, use, modify and distribute. This approach promotes collaboration and community involvement, as other schools and learning spaces can use this template to create their own learning centre, and even contribute back to the original project by suggesting improvements or creating new features. By making the project open source, the creators of Spark Learning Centre are encouraging the development of a community of users and contributors who can work together to create better learning spaces for students everywhere.
 
 ![PXL_20230320_033833228](https://user-images.githubusercontent.com/4064893/226241401-7a041901-6f69-4585-98a4-40b71766fab1.jpg)
 
