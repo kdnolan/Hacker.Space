@@ -13,12 +13,13 @@ Mobirise License for WebDev
 
 ------------------------------------------------------------------------------------------------------------------------
 
-Spark Leaders
+**Spark Leaders**
 4 leaders + tech ninjas
 Student Roles: 
 
 Admins
 Tech Support
+Helpdesk
 
 ------------------------------------------------------------------------------------------------------------------------
 
@@ -57,8 +58,9 @@ https://www.makeuseof.com/tag/budget-smart-home-projects/
 ------------------------------------------------------------------------------------------------------------------------
 
 **Robotics**
-Lego Table: https://www.firstinspires.org/sites/default/files/uploads/resource_library/fll/table-build.pdf
-Open.Ai
+
++Lego Table: https://www.firstinspires.org/sites/default/files/uploads/resource_library/fll/table-build.pdf
++Open.Ai
 ------------------------------------------------------------------------------------------------------------------------
 
 **Learning Linux** 
