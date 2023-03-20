@@ -23,7 +23,7 @@ Helpdesk
 
 ------------------------------------------------------------------------------------------------------------------------
 
-Group Policy - apps
+**Group Policy - apps**
 WedDev
 https://mobirise.com/au/
 GameboyDev
@@ -59,8 +59,9 @@ https://www.makeuseof.com/tag/budget-smart-home-projects/
 
 **Robotics**
 
-+Lego Table: https://www.firstinspires.org/sites/default/files/uploads/resource_library/fll/table-build.pdf
-+Open.Ai
+Lego Table: https://www.firstinspires.org/sites/default/files/uploads/resource_library/fll/table-build.pdf
+Open.Ai
+
 ------------------------------------------------------------------------------------------------------------------------
 
 **Learning Linux** 
@@ -82,13 +83,13 @@ https://gbdev.io/resources.html
 
 ------------------------------------------------------------------------------------------------------------------------
 
-Drone tech
+**Drone tech**
 https://www.jbhifi.com.au/products/dji-mini-3-pro-drone?ab_version=B&srsltid=Ad5pg_Gbn1Y9vaJer6Snk3ahenmkf5eg4m8Y53BsSB_Atx9w9pBaE4EdS0g
 
 ------------------------------------------------------------------------------------------------------------------------
 
 
-Digital Artwork - Augmented Reality
+**Digital Artwork - Augmented Reality**
 https://displate.com/richardparry/assembly-required
 https://www.eyejack.io/
 
@@ -96,14 +97,14 @@ https://www.eyejack.io/
 
 
 
-Minecraft
+**Minecraft**
 Education Edition Server Setup (VM)
 Java Edition Server (VM)
 
 ------------------------------------------------------------------------------------------------------------------------
 
 
-VR Dev
+**VR Dev**
 Mozilla Spoke
 https://www.gitbook.com/
 Mozilla Hubs
