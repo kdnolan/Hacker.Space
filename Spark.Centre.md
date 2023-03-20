@@ -2,6 +2,8 @@
 Spark Learning Centre Open Development
 {this is an open source template for other schools and learning spaces to fork and emulate}
 
+![PXL_20230320_033833228](https://user-images.githubusercontent.com/4064893/226241401-7a041901-6f69-4585-98a4-40b71766fab1.jpg)
+
 ------------------------------------------------------------------------------------------------------------------------
 
 GitHub - LMS - https://github.com/
