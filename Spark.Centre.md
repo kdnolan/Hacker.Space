@@ -19,6 +19,11 @@ Mobirise License for WebDev
 4 leaders + tech ninjas
 Student Roles: 
 
+Taj
+Lelo
+Tabitha
+Lyncon
+
 Admins
 Tech Support
 Helpdesk
@@ -26,13 +31,18 @@ Helpdesk
 ------------------------------------------------------------------------------------------------------------------------
 
 **Group Policy - apps**
+
 WedDev
 https://mobirise.com/au/
+
 GameboyDev
 https://chrismaltby.itch.io/gb-studio
+
 IPFS Client
 https://github.com/ipfs/ipfs-desktop/releases
+
 GitHub https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/installing-and-authenticating-to-github-desktop/installing-github-desktop
+
 Mark Down Editor
 https://ghostwriter.kde.org/download
 
