@@ -36,6 +36,13 @@ Lego World
 
 ------------------------------------------------------------------------------------------------------------------------
 
+**STEM Web3 Avatars**
+Students today learnt about IPFS, Web3 Avatars and an introduction to GitHub. They have digital ownership over the avatars they created, which enables them to use them on Virtual Reality platforms such as Mozilla Hubs. 
+
+
+
+------------------------------------------------------------------------------------------------------------------------
+
 
 Spark Learning Centre Open Development
 {this is an open source template for other schools and learning spaces to fork and emulate}
