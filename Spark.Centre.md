@@ -39,7 +39,17 @@ Lego World
 **STEM Web3 Avatars**
 Students today learnt about IPFS, Web3 Avatars and an introduction to GitHub. They have digital ownership over the avatars they created, which enables them to use them on Virtual Reality platforms such as Mozilla Hubs. 
 
+![Image](https://user-images.githubusercontent.com/128349545/227823386-fe845fbd-29cf-4353-966a-dab1708081bc.jpeg)
 
+![Image 1](https://user-images.githubusercontent.com/128349545/227823362-37858e92-ecd4-4f97-8cd0-7f03a89b82f7.jpeg)
+
+![Image 2](https://user-images.githubusercontent.com/128349545/227823426-a15830d2-4b6e-4bdc-bf55-275fbb8a317b.jpeg)
+
+![Image 3](https://user-images.githubusercontent.com/128349545/227823435-54834598-bd1d-4203-9cbd-94ba53fc57a9.jpeg)
+
+![Image 4](https://user-images.githubusercontent.com/128349545/227823444-ea54d765-9a2f-446d-8d1f-04e7cd9eaeb5.jpeg)
+
+![Image 5](https://user-images.githubusercontent.com/128349545/227823449-ce6cac45-8e35-4089-a63a-3a523b0bd5cc.jpeg)
 
 ------------------------------------------------------------------------------------------------------------------------
 
