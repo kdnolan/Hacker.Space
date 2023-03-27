@@ -94,6 +94,11 @@ https://www.starlink.com/
 82 Boneo Rd, Boneo VIC 3939, Australia Starlink is currently available in your area! Customers in your region typically see download speeds around 100 Mbps. No contracts, 30-day trial. Shipping times are currently estimated to be 1-2 weeks. 
 Ordering as a business? Get faster speeds, priority support, and more with Starlink Business . $139/mo for service and $450 for hardware.
 
+Great news! Australia’s best 5G is available.
+Enjoy better performance, fast downloads and less lag when you use this phone and a plan with 5G network access included, in a Telstra 5G area.
+Your Address
+582 BONEO RD, BONEO, VIC 3939
+
 CCNA - Networking fundamentals (The CCNA is an entry-level networking certification that can prepare you for networking roles in IT like network specialist, network administrator, and network engineer)
 
 Building a Mesh Network (A mesh network is a group of connectivity devices, such as Wi-Fi routers that act as a single network, so there are multiple sources of connectivity around your house instead of just a single router.)
