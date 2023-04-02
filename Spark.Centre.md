@@ -33,6 +33,22 @@ scanteie
 
 Lego World
 
+Hacker Space
+
+Matrix Lab
+
+Hacker Room
+
+Hacker Zone
+
+Lab Rats
+
+Ras Pi room
+
+Pluto Space Wizards
+
+
+
 
 ------------------------------------------------------------------------------------------------------------------------
 
