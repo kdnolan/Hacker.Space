@@ -1,56 +1,44 @@
-# SPARK.Centre
+# Hacker.Space
 
-New Names:
-Thinking Portal 
-Imagination Centre
-The Anon Centre
-Thought Zone
-
-LamaLama
-
-Iskrovoy tsentr
-la charmb de STEM
-
-Ganesh Labs
-Tech Zone
-Wireless Centre
-
-ESI LABS
-Tech Cool for School!
-Funkenzentum
-
-Thinking Wire
-
-
-Glow Centre
-Glow Zone
-
-WW (Wire World)
-
-Wired Thoughts
-
-scanteie
-
-Lego World
-
-Hacker Space
-
-Matrix Lab
-
-Hacker Room
-
-Hacker Zone
-
-Lab Rats
-
-Ras Pi room
-
-Pluto Space Wizards
+Students Names for the classroom:
+Thinking Portal | Imagination Centre
+| 
+The Anon Centre | 
+Thought Zone |
+LamaLama |
+Iskrovoy tsentr |
+la charmb de STEM |
+Ganesh Labs |
+Tech Zone |
+Wireless Centre |
+ESI LABS |
+Tech Cool for School! |
+Funkenzentum |
+Thinking Wire |
+Glow Centre |
+Glow Zone |
+WW (Wire World) | 
+Wired Thoughts |
+scanteie |
+Lego World |
+Hacker Space |
+Matrix Lab |
+Hacker Room |
+Hacker Zone |
+Lab Rats |
+Ras Pi room |
+Pluto Space Wizards |
 
 
-
-
+# Winner: Hacker.Space
 ------------------------------------------------------------------------------------------------------------------------
+**Monday, 3 April 2023**
+
+The Lego Hacker Space has been initiated!
+
+![image](https://user-images.githubusercontent.com/4064893/229640026-edb14002-5c5b-41d5-9ff6-f217af3b3bda.png)
+------------------------------------------------------------------------------------------------------------------------
+**Monday, 3 April 2023**
 
 **STEM Web3 Avatars**
 Students today learnt about IPFS, Web3 Avatars and an introduction to GitHub. They have digital ownership over the avatars they created, which enables them to use them on Virtual Reality platforms such as Mozilla Hubs. 
@@ -69,6 +57,7 @@ Students today learnt about IPFS, Web3 Avatars and an introduction to GitHub. Th
 
 ------------------------------------------------------------------------------------------------------------------------
 
+** Monday, March 20th, 2023.**
 
 Spark Learning Centre Open Development
 {this is an open source template for other schools and learning spaces to fork and emulate}
@@ -76,33 +65,21 @@ Spark Learning Centre Open Development
 
 ![PXL_20230320_033833228](https://user-images.githubusercontent.com/4064893/226241401-7a041901-6f69-4585-98a4-40b71766fab1.jpg)
 
-------------------------------------------------------------------------------------------------------------------------
 
-GitHub - LMS - https://github.com/
+**GitHub - LMS - https://github.com/**
 
 Digital Portfolios - GitBook
-
 Mobirise License for WebDev
 
-
-------------------------------------------------------------------------------------------------------------------------
 
 **Spark Leaders**
 4 leaders + tech ninjas
 Student Roles: 
 
-Taj
-Lelo
-Tabitha
-Lyncon
+Taj | Lelo | Tabitha | Lyncon
 
-Admins
-Tech Support
-Helpdesk
 
-------------------------------------------------------------------------------------------------------------------------
-
-**Group Policy - apps**
+**apps**
 
 WedDev
 https://mobirise.com/au/
@@ -120,12 +97,10 @@ https://ghostwriter.kde.org/download
 
 ------------------------------------------------------------------------------------------------------------------------
 
-**Smart Classroom**
 
-Starlink
-https://www.starlink.com/
-82 Boneo Rd, Boneo VIC 3939, Australia Starlink is currently available in your area! Customers in your region typically see download speeds around 100 Mbps. No contracts, 30-day trial. Shipping times are currently estimated to be 1-2 weeks. 
-Ordering as a business? Get faster speeds, priority support, and more with Starlink Business . $139/mo for service and $450 for hardware.
+
+**Smart Classroom Plan:**
+
 
 Great news! Australia’s best 5G is available.
 Enjoy better performance, fast downloads and less lag when you use this phone and a plan with 5G network access included, in a Telstra 5G area.
@@ -144,14 +119,6 @@ Smart Projects:
 https://smarthomesolver.com/reviews/smart-home-projects-for-beginners/
 https://www.makeuseof.com/tag/budget-smart-home-projects/
 
-------------------------------------------------------------------------------------------------------------------------
-
-**Robotics**
-
-Lego Table: https://www.firstinspires.org/sites/default/files/uploads/resource_library/fll/table-build.pdf
-Open.Ai
-
-------------------------------------------------------------------------------------------------------------------------
 
 **Learning Linux** 
 
@@ -163,34 +130,21 @@ https://www.electromaker.io/blog/article/retropie-vs-recalbox-vs-lakka-for-retro
 
 +1 computer dedicated to open.ai (linux distro)
 
-------------------------------------------------------------------------------------------------------------------------
 **Game Dev**
 +Gameboy dev kit
 https://gbdev.io/resources.html
 +Scatch
 +Open.Ai - troubleshooting station
 
-------------------------------------------------------------------------------------------------------------------------
-
-**Drone tech**
-https://www.jbhifi.com.au/products/dji-mini-3-pro-drone?ab_version=B&srsltid=Ad5pg_Gbn1Y9vaJer6Snk3ahenmkf5eg4m8Y53BsSB_Atx9w9pBaE4EdS0g
-
-------------------------------------------------------------------------------------------------------------------------
-
 
 **Digital Artwork - Augmented Reality**
 https://displate.com/richardparry/assembly-required
 https://www.eyejack.io/
 
-------------------------------------------------------------------------------------------------------------------------
-
-
 
 **Minecraft**
 Education Edition Server Setup (VM)
 Java Edition Server (VM)
-
-------------------------------------------------------------------------------------------------------------------------
 
 
 **VR Dev**
