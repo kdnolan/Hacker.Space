@@ -1,5 +1,45 @@
 # Hacker.Space
 
+
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------
+
+
+Monday, 17 April 2023
+
+
+360 degree Tools: - create our own "Google Expeditions"
+https://www.google.com/maps/contrib/101365855906594894078/photos/@20.537225,30.1983371,3z/data=!4m3!8m2!3m1!1e2
+https://developers.google.com/vr/develop/web/vrview-web
+https://developers.google.com/vr/discover/360-degree-media
+
+PixelArt iPad tools:
+https://www.makeuseof.com/best-apps-to-create-pixel-art/
+
+
+New computers for kids to build:
+5X 
+https://www.kogan.com/au/buy/australian-computer-traders-dell-optiplex-9020-sff-intel-i5-4670-340ghz-8gb-ram-128gb-ssd-win-10-dell9020sffi515-r/
+5XGPU  ($161)
+https://www.kogan.com/au/buy/jw-computers-msi-geforce-n730k-2gd3h-low-profile-video-card-n730k-2gd3hlp-534500/
+($77)
+5X
+https://www.kogan.com/au/buy/jw-computers-asus-pce-ax3000-wifi-6-bluetooth-50-pcie-adapter-oem-pack-383341/
+($67)
+
+
+
+28X 
+
+
+
+------------------------------------------------------------------------------------------------------------------------
+
+
 Students Names for the classroom:
 Thinking Portal | Imagination Centre
 | 
