@@ -1,0 +1,57 @@
+# Open-Source Template: Student-Centric Smart Classroom Space Design
+
+## Abstract
+
+This open-source template presents a student-centric smart classroom space design that can be adopted and customized by other schools. The design is based on the successful implementation at Boneo Primary School, leveraging various technologies to enhance learning experiences. The template incorporates Google Apps for Education, Open DNS web filtering, Deep Freeze as a replacement for Active Directory, a Linux Lab with OS choices, IoT devices for project-based learning, game design projects using Gameboy Studio, student-built game consoles using Batecora Linux, PiHole for content blocking, Starlink for internet connectivity, a 6e mesh network topology, and students using GitHub for digital portfolios. Schools can "fork" this template and modify it according to their specific needs and preferences, creating an innovative and efficient learning environment that fosters creativity, collaboration, and personalized learning for their students.
+
+## 1. Introduction
+
+Traditional classroom setups are rapidly evolving into smart learning spaces that integrate technology to cater to diverse learning needs. This open-source template presents a comprehensive student-centric smart classroom design that can be adapted and built upon by other schools. The template is based on the successful implementation at Boneo Primary School, where a collection of cutting-edge tools and technologies were integrated to enrich the learning process and improve engagement.
+
+## 2. Google Apps for Education
+
+The template includes the integration of Google Apps for Education, providing a suite of collaborative tools, including Google Docs, Sheets, Slides, and Classroom. These applications facilitate real-time collaboration, file sharing, and assignment management, empowering students and teachers to work together seamlessly.
+
+## 3. Open DNS Web Filtering
+
+To ensure a safe and secure online environment, schools can implement Open DNS web filtering. This technology allows administrators to block access to malicious or inappropriate websites, ensuring a controlled internet experience while safeguarding students from potential online threats.
+
+## 4. Deep Freeze as a Replacement for Active Directory
+
+Schools can use Deep Freeze as a flexible and efficient alternative to Active Directory for managing system configurations in the smart classroom. It allows for quick system recovery and rollback to a predefined state, preventing any unauthorized changes and ensuring the integrity of the operating environment.
+
+## 5. Linux Lab with OS Choices
+
+The template incorporates a Linux Lab where students can choose their preferred operating system to work on. This empowers students to explore various Linux distributions, promoting a deeper understanding of technology and open-source software.
+
+## 6. IoT Devices for Project-Based Learning
+
+Schools can adopt Internet of Things (IoT) devices for project-based learning activities. Students can engage in hands-on projects that involve designing, building, and programming IoT devices, fostering problem-solving skills and creativity in a practical context.
+
+## 7. Game Design Projects using Gameboy Studio
+
+The template encourages schools to introduce game design projects using Gameboy Studio. Students can learn game development concepts, design their games, and program them using the platform. This initiative enhances logical thinking and encourages students to pursue their interests in the field of game development.
+
+## 8. Student-Built Game Consoles with Batecora Linux
+
+Schools can encourage students to build their game consoles using Batecora Linux as the operating system. This project combines hardware and software knowledge, providing a unique and rewarding experience for students.
+
+## 9. PiHole for Content Blocking
+
+To block unnecessary and distracting content on the school network, schools can employ PiHole. This content filtering system ensures that students focus on relevant educational materials during their classroom activities.
+
+## 10. Starlink for Internet Connection
+
+Schools can utilize Starlink satellite internet service to provide reliable and high-speed internet connectivity, particularly in areas where traditional internet options may be limited. This ensures seamless access to online resources and activities for all students.
+
+## 11. 6e Mesh Network Topology
+
+Schools can deploy a 6e mesh network topology to create a robust and reliable wireless network infrastructure. This topology enhances network coverage and stability, allowing for uninterrupted connectivity across the entire smart classroom space.
+
+## 12. Students Using GitHub for Digital Portfolios
+
+Schools can encourage their students to use GitHub for creating and maintaining their digital portfolios. GitHub, a version control platform, allows students to showcase their coding projects, art, writing, and other accomplishments in a professional and organized manner. This approach encourages students to document their learning journey, collaborate with peers, and receive feedback from teachers and other students, enhancing their digital literacy and project management skills.
+
+## 13. Conclusion
+
+This open-source template offers a student-centric smart classroom design that other schools can "fork" and customize to suit their unique requirements. By leveraging a combination of Google Apps for Education, Open DNS web filtering, Deep Freeze, Linux Lab, IoT devices, Gameboy Studio, Batecora Linux, PiHole, Starlink, a 6e mesh network topology, and students using GitHub for digital portfolios, schools can create an interactive, engaging, and secure learning environment. The adoption of this innovative approach to education equips students with the necessary skills to excel in a rapidly evolving technological landscape and prepares them for the challenges of the future.
