@@ -1,0 +1,48 @@
+# Comprehensive Student Network Access Policy
+
+## Purpose:
+The primary objective of the Student Network Access Policy at Boneo Primary School is to establish and maintain a secure, conducive, and productive digital learning environment. This comprehensive policy encompasses various critical aspects of network access, including OPENDNS filtering (CIPA compliant), Pi-hole content blocking, supervised internet access, and the responsible use of Google Apps for Education, with a particular emphasis on leveraging Be Internet Awesome resources. Additionally, the policy acknowledges the implementation of Starlink Internet to enhance connectivity.
+
+## OPENDNS Filtering (CIPA Compliant):
+As a responsible educational institution, Boneo Primary School adheres to the mandates of the Children's Internet Protection Act (CIPA) by employing OPENDNS filtering. This sophisticated filtering system serves as a robust shield, effectively preventing access to inappropriate and harmful internet content. Such content includes explicit material, violence, or any other material deemed unsuitable for students. By implementing OPENDNS at the network level, we ensure that students are safeguarded against emerging online threats, and regular updates guarantee continued efficacy.
+
+## Pi-hole Content Blocking:
+In addition to OPENDNS filtering, we have taken a proactive approach to bolster network security through the implementation of Pi-hole content blocking. This powerful network-wide ad and domain blocker serves as an additional layer of protection, significantly mitigating the risk of students inadvertently encountering harmful advertisements or accessing malicious websites. This comprehensive protection mechanism reinforces our commitment to maintaining a safe and focused learning environment.
+
+## Supervised Internet Access:
+At Boneo Primary School, we firmly believe in nurturing responsible digital citizenship. Hence, all student network activities are thoughtfully supervised by designated teachers and staff during school hours. Our teachers actively guide students on the appropriate use of the internet, ensuring that online resources align with the curriculum and educational objectives. Through vigilant monitoring, we can promptly intervene in case of any misuse or unsafe online activities, fostering a secure and constructive digital experience for our students.
+
+## Be Internet Awesome - Google Apps for Education Safety:
+We are deeply committed to promoting the safe and responsible use of Google Apps for Education among our students. To uphold their safety and privacy, we have thoughtfully incorporated specific guidelines and measures:
+
+- **G Suite for Education:** At Boneo Primary School, we leverage G Suite for Education, a suite of productivity tools provided by Google tailored to meet the unique needs of educational institutions. Our use of G Suite aligns with the Family Educational Rights and Privacy Act (FERPA) and offers enhanced security features tailored to protect the privacy of our students.
+
+- **Data Privacy and Security:** We place a premium on student data privacy and security. All data processed and stored within G Suite for Education is subject to stringent privacy protocols outlined in our data protection policy. Leveraging Google's advanced security measures, such as encryption and multi-factor authentication, we provide an additional layer of protection for our students' information.
+
+- **Safe Browsing and Search:** To ensure a secure browsing experience, Google's Safe Browsing feature is enabled, guarding against access to malicious websites or inappropriate content while students use Google Chrome. Moreover, SafeSearch is activated across all devices within our school premises, filtering out explicit or inappropriate content from search results.
+
+- **YouTube Safety Mode:** Recognising the prevalence of educational content on YouTube, we take proactive measures to protect our students from potentially mature or inappropriate content. By default, YouTube's Safety Mode is enabled when students access YouTube through their Google accounts.
+
+- **Classroom Guidelines:** Our dedicated teachers educate students on the appropriate use of Google Classroom and other G Suite apps. Our guidelines promote respectful communication, responsible file sharing, and adherence to copyright and intellectual property regulations.
+
+- **Email Communication:** In their pursuit of education, students are provided with school-sanctioned email accounts that are supervised and monitored by teachers, ensuring that all communication is relevant to school activities.
+
+- **Reporting and Escalation:** At Boneo Primary School, we actively encourage students and staff to report any instances of inappropriate content, cyberbullying, or online safety concerns. Our school has clear procedures for reporting and escalating such incidents to the appropriate authorities, ensuring prompt action and resolution.
+
+- **Digital Citizenship Curriculum:** Digital citizenship education is thoughtfully woven into our curriculum. Students receive comprehensive instruction on responsible online behaviour, digital etiquette, and the importance of respecting others' rights and privacy in the digital realm.
+
+- **Parental Involvement:** Recognising the pivotal role of parents and guardians in shaping our students' digital experiences, we provide them with valuable information and resources on Google Apps for Education safety. By fostering an open dialogue, we encourage parents to engage in discussions with their children about internet safety and responsible technology use at home.
+
+## Starlink Internet:
+Boneo Primary School embraces technological advancements, and we acknowledge the significant advantages of Starlink Internet in providing reliable and high-speed connectivity, particularly in areas with limited infrastructure. Our use of Starlink Internet is a deliberate effort to enhance the learning experience for our students, ensuring uninterrupted access to valuable online educational resources.
+
+## Parental Involvement:
+Parents and guardians are essential partners in creating a safe digital environment for our students. We actively encourage and invite parents to actively engage in their child's online activities and to monitor their internet usage at home. To support this collaborative effort, Boneo Primary School provides parents with valuable resources and information on internet safety and responsible use.
+
+## Consequences of Violation:
+The Boneo Primary School takes any violation of this comprehensive Student Network Access Policy seriously. Our established disciplinary procedures ensure that the consequences of such violations are appropriately addressed. The severity of the consequences will be determined based on the nature and frequency of the violation. Our ultimate goal is to educate students about responsible internet use, instilling in them the values of digital citizenship.
+
+## Review and Updates:
+Recognising the dynamic nature of technology, our policy undergoes periodic reviews to adapt to evolving technological advancements and potential risks. Any updates to the policy will be promptly communicated to students, parents, and staff, ensuring continued compliance and safety within our digital learning environment.
+
+Boneo Primary School's comprehensive Student Network Access Policy underscores our commitment to creating a secure and positive digital space. Our primary aim is to provide our students with a responsible, informed, and enriching digital experience, empowering them to explore, learn, and grow in a safe and nurturing environment. Through the thoughtful integration of technology safeguards, educational initiatives, and active parental involvement, we strive to equip our students with the essential digital skills and knowledge required to thrive in the digital age.
